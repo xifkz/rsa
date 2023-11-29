@@ -3,6 +3,8 @@
 free encryption tool, open source made in c# feel free more features yourself.
 
 
+
+
                                __                  __                                  __   ______   __          
                               |  \                |  \                                |  \ /      \ |  \         
  ______ ____    ______    ____| $$  ______        | $$____   __    __        __    __  \$$|  $$$$$$\| $$   __    
@@ -15,3 +17,5 @@ free encryption tool, open source made in c# feel free more features yourself.
                                                             |  \__| $$                                           
                                                              \$$    $$                                           
                                                               \$$$$$$                                            
+
+                                                
